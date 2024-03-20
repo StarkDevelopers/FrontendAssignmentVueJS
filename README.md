@@ -83,29 +83,24 @@ npm run format
 ## **Dependencies**
 
 **Font Awesome**
-Font Awesome is a popular icon library that provides a vast collection of scalable vector icons. In a Vue.js project, Font Awesome is often used to easily incorporate stylish and customizable icons into the user interface, enhancing visual appeal and usability without the need for additional image assets.
+
+- Font Awesome is a popular icon library that provides a vast collection of scalable vector icons. In a Vue.js project, Font Awesome is often used to easily incorporate stylish and customizable icons into the user interface, enhancing visual appeal and usability without the need for additional image assets.
 
 **Crypto.js**
-Crypto.js is a library that provides cryptographic functions in JavaScript. In this project, it is being used to generate the hash of email id to get profile picture from Gravatar
+
+- Crypto.js is a library that provides cryptographic functions in JavaScript. In this project, it is being used to generate the hash of email id to get profile picture from Gravatar
 
 **pinia**
-Pinia is a state management library for Vue.js applications, offering a simple and efficient alternative to Vuex. In this Vue.js project, Pinia is utilized to manage User Profile in the application state.
+
+- Pinia is a state management library for Vue.js applications, offering a simple and efficient alternative to Vuex. In this Vue.js project, Pinia is utilized to manage User Profile in the application state.
 
 **vuetify**
-Vuetify is a popular Vue.js component library that offers a rich set of UI components following Google's Material Design guidelines. In this project, it using following components by importing them individually to reduce bundle size:
 
-- VCard
-- VBtn
-- VContainer
-- VRow
-- VCol
-- VImg
-- VTextField
-- VProgressLinear
-- VProgressCircular
+- Vuetify is a popular Vue.js component library that offers a rich set of UI components following Google's Material Design guidelines. In this project, it using following components by importing them individually to reduce bundle size: VCard, VBtn, VContainer, VRow, VCol, VImg, VTextField, VProgressLinear, VProgressCircular
 
 **zxcvbn**
-zxcvbn is a JavaScript library for estimating password strength. In this Vue.js project, zxcvbn is used to provide real-time feedback to users when creating passwords, helping them choose stronger and more secure passwords by evaluating factors such as complexity and entropy, thus enhancing overall application security.
+
+- zxcvbn is a JavaScript library for estimating password strength. In this Vue.js project, zxcvbn is used to provide real-time feedback to users when creating passwords, helping them choose stronger and more secure passwords by evaluating factors such as complexity and entropy, thus enhancing overall application security.
 
 ## **Style Guide**
 
